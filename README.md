@@ -1,8 +1,6 @@
 # D2C_PowerBI_Dashboard
 D2C business analysis dashboard built with Power BI, Power Query, and DAX.
 
-# D2C Business Intelligence Dashboard
-
 ## 📊 Project Overview
 
 An interactive Power BI dashboard designed to analyze
@@ -54,7 +52,7 @@ clicks and impressions.
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](https://github.com/manya2170/D2C_PowerBI_Dashboard/blob/main/Screenshot%202026-09-17%20203302.png)
 
 ### Cost & Vendor Analysis
 ![Cost & Vendor Analysis](screenshots/cost-vendor-analysis.png)
