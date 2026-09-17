@@ -55,7 +55,7 @@ clicks and impressions.
 ![Executive Dashboard](https://github.com/manya2170/D2C_PowerBI_Dashboard/blob/main/Screenshot%202026-09-17%20203302.png)
 
 ### Cost & Vendor Analysis
-![Cost & Vendor Analysis](screenshots/cost-vendor-analysis.png)
+![Cost & Vendor Analysis](https://github.com/manya2170/D2C_PowerBI_Dashboard/blob/main/Screenshot%202026-09-17%20203314.png)
 
 ### Marketing Performance
 ![Marketing Performance](screenshots/marketing-performance.png)
